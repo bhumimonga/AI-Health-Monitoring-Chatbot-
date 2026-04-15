@@ -4,21 +4,29 @@
 # Features 
 
 • Medical question answering
+
 • Food safety verification tips
+
 • Health precautions and recommendations
+
 • AI-powered conversational interface
 
 # Tech Stack
 
 • Google AI Studio
+
 • Gemini API
-• Node.js
+
+• Node.js.
+
 • React / Web Framework
 
 # Run Locally
 
 # Prerequisites 
+
 • Node.js installed
+
 • Gemini API Key
 
 # Setup
